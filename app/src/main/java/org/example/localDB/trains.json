@@ -1,0 +1,47 @@
+[
+  {
+    "source": "Bangalore",
+    "desitnations":"Kolkata",
+    "date_of_travel": "2024-12-08T18:30:00Z",
+    "train": {
+      "train_id": "baks",
+      "train_no": 12345,
+      "seats": [
+        [0,0,0,0,0,0],
+        [0,0,0,0,0,0],
+        [0,0,0,0,0,0],
+        [0,0,0,0,0,0]
+      ],
+      "station_times": {
+        "Bangalore": "13:50:00",
+        "Kolkata": "13:50:00",
+        "Durgapur": "13:50:00"
+      },
+      "stations": [
+        "Bangalore",
+        "Kolkata",
+        "Durgapur"
+      ]
+    }
+  },
+  {
+    "source": "Mysore",
+    "desitnations":"Kolkata",
+    "date_of_travel": "2024-12-08T18:30:00Z",
+    "train": {
+      "train_id": "bams",
+      "train_no": 1245,
+      "seats": [
+        [0,0,0,0,0,0],
+        [0,0,0,0,0,0],
+        [0,0,0,0,0,0],
+        [0,0,0,0,0,0]
+      ],
+      "stations": {
+        "Mysore": "13:50:00",
+        "Kolkata": "13:50:00",
+        "Durgapur": "13:50:00"
+      }
+    }
+  }
+]
